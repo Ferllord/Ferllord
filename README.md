@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A inquisitive Python developer from Belarus</h3>
 
-- 🔭 I’m currently working on [Online Store](https://github.com/Ferllord/Online_Store)
-
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **alsheuski@outlook.com**
